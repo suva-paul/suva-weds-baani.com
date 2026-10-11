@@ -5,7 +5,7 @@
 window.WEDDING = {
   couple: {
     groom: "শুভঙ্কর",
-    bride: "সর্বানীী",
+    bride: "সর্বানী",
     hashtag: "#baani_weds_suva",
     tagline: "দুই পরিবার, এক চিরন্তন বন্ধন!",
   },
