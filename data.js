@@ -5,7 +5,7 @@
 window.WEDDING = {
   couple: {
     groom: "শুভঙ্কর",
-    bride: "সর্বাণী",
+    bride: "সর্বানীী",
     hashtag: "#baani_weds_suva",
     tagline: "দুই পরিবার, এক চিরন্তন বন্ধন!",
   },
@@ -30,7 +30,7 @@ window.WEDDING = {
 
   venue: {
     name: "মহামায়া প্যালেস",
-    address: "হাউলিপট্টি রোড, বারোবিশা, আলিপুরদুয়ার, পশ্চিমবঙ্গ - ৭৩৬২০৭",
+    address: "হাওলিপট্টি রোড, বারবিশা, আলিপুরদুয়ার, পশ্চিমবঙ্গ - ৭৩৬২০৭",
     mapsEmbed: "https://www.google.com/maps?q=MAHAMAYA+PALACE,Barobisha,Alipurduar,West%20Bengal&output=embed",
     directions:
       "https://www.google.com/maps/dir//MAHAMAYA+PALACE,+FR94%2B229,+Hawlipatty+Rd,+Mathabhanga,+Barobisha,+West+Bengal+736207",
@@ -50,7 +50,7 @@ window.WEDDING = {
       name: "বধূবরণ",
       date: "২৯শে অগ্রহায়ণ ১৪৩৩ (১৬ই ডিসেম্বর ২০২৬), বুধবার",
       time: "সন্ধ্যা ৭:০০ টা থেকে",
-      venue: "মহামায়া প্যালেস, হাওলিপট্টি, বারবিশা, আলিপুরদুয়ার",
+      venue: "মহামায়া প্যালেস, বারবিশা, আলিপুরদুয়ার",
       description:
         "হাসি, আনন্দ ও প্রিয়জনদের সঙ্গে একত্র হওয়ার এক মধুর সন্ধ্যা।",
       image: "assets/couple-reception.png",
@@ -94,7 +94,7 @@ window.WEDDING = {
     },
     {
       title: "বাসে",
-      detail: "নিউ আলিপুরদুয়ার বাস স্ট্যান্ড থেকে বাসে করে বারোবিশা পৌঁছে যান।",
+      detail: "নিউ আলিপুরদুয়ার বাস স্ট্যান্ড থেকে বাসে করে বারবিশা পৌঁছে যান।",
     },
     {
       title: "স্থানীয় যাতায়াত",
