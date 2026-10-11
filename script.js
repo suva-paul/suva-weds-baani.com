@@ -332,7 +332,7 @@
 
       /* Start wedding music */
       if (weddingMusic) {
-        weddingMusic.volume = 0.30;
+        weddingMusic.volume = 0.20;
         var playPromise = weddingMusic.play();
         if (playPromise !== undefined) {
           playPromise.catch(function () {
