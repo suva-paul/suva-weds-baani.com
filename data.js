@@ -30,7 +30,7 @@ window.WEDDING = {
 
   venue: {
     name: "মহামায়া প্যালেস",
-    address: "হাওলিপট্টি রোড, বারবিশা, আলিপুরদুয়ার, পশ্চিমবঙ্গ - ৭৩৬২০৭",
+    address: "হাওলিপট্টি, বারবিশা, আলিপুরদুয়ার, পশ্চিমবঙ্গ - ৭৩৬২০৭",
     mapsEmbed: "https://www.google.com/maps?q=MAHAMAYA+PALACE,Barobisha,Alipurduar,West%20Bengal&output=embed",
     directions:
       "https://www.google.com/maps/dir//MAHAMAYA+PALACE,+FR94%2B229,+Hawlipatty+Rd,+Mathabhanga,+Barobisha,+West+Bengal+736207",
